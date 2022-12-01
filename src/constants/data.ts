@@ -17,7 +17,7 @@ export const DATA = {
         facebook: ''
     },
     about: {
-        desc: 'I am a fullstack web developer near Toronto Ontario. I got my interests in coding since 12th grade thats why I did my Graduation and Postgraduation in computer application. Now, Coding has become my favourite passion and I love seeing the results of my efforts.',
+        desc: "I am a full-stack web developer near Toronto Ontario. I got my interest in coding since 12th grade that's why I did my Graduation and Postgraduation in computer. Now, Coding has become my favourite passion and I love seeing the results of my efforts.",
         strengths: {
           'Fullstack Web development': {
 						Icon: CgWebsite,
